@@ -31,8 +31,7 @@
 ---
 
 ## ⟢ About Me
-
-Hello! I'm **Marwa Alharbi**, a passionate Flutter and full-stack developer.  
+I'm passionate Flutter and full-stack developer.  
 I love creating beautiful, user-friendly mobile and web applications.  
 I also design intuitive UI/UX experiences that delight users.  
 
