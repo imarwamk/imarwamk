@@ -77,7 +77,6 @@ Focus areas:
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-6904F6?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-D9F500?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F60596?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-6904F6?style=for-the-badge&logo=mysql&logoColor=white)
 
