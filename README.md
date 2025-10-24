@@ -1,87 +1,101 @@
 <div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=30&duration=1&pause=999999&color=68d8fb&center=true&vCenter=true&width=600&lines=✧+Marwa+Alharbi+✧" alt="Name Logo" />
 
-# ✧ Marwa Alharbi ✧
-
-### Flutter Developer | Full-Stack Developer | UI/UX Designer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&duration=3000&pause=1000&color=F60596&center=true&vCenter=true&width=600&lines=Crafting+Beautiful+Experiences+%F0%9F%8E%A8;Building+Innovative+Solutions+%F0%9F%9A%80;Designing+with+Purpose+%F0%9F%92%96" alt="Typing SVG" />
+### `Flutter Developer` | `Full-Stack Developer` | `UI/UX Designer`
 
 <br/>
 
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-D9F500?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://marwa-alharbi.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6904F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwa-alharbi-559786295/)
-[![Behance](https://img.shields.io/badge/Behance-View-FF60596?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marwamkalharbi)
-[![TikTok](https://img.shields.io/badge/TikTok-F60596?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@idevm)
-[![Twitter](https://img.shields.io/badge/Twitter-@IMarwa_MK-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IMarwa_MK)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D9F500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Marwa.alhrby7@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-My_Links-6904F6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/AlharbiMarwa)
-
-</div>
+<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 18px; color: #68d8fb; font-weight: 500;">
+⟢ Passionate about building applications with elegant design and strong functionality
+</p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=68d8fb&center=true&vCenter=true&width=600&lines=%24+echo+%22Crafting+Digital+Experiences%22;%24+echo+%22Building+Secure+Solutions%22;%24+echo+%22Designing+With+Purpose%22" alt="Typing SVG" />
 
-</div>
-
-
-
----
-
-## ⟢ About Me
-I'm passionate Flutter and full-stack developer.  
-I love creating beautiful, user-friendly mobile and web applications.  
-I also design intuitive UI/UX experiences that delight users.  
-
-Focus areas:  
-- ⟢ Flutter Development  
-- ⟢ Full-Stack Web Development  
-- ⟢ UI/UX Design  
-- ⟢ Mobile App Development
+<br/>
 
 <div align="center">
 
-### ⟢ Passionate about building applications with elegant design and strong functionality
+[![PORTFOLIO](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=terminal&logoColor=68d8fb)](https://marwa-alharbi.netlify.app/)
+[![LINKEDIN](https://img.shields.io/badge/💼_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=68d8fb)](https://www.linkedin.com/in/marwa-alharbi-559786295/)
+[![EMAIL](https://img.shields.io/badge/📧_CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=68d8fb)](mailto:Marwa.alhrby7@gmail.com)
+
+</div>
+
+<br/>
+
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+
+![Behance](https://img.shields.io/badge/BEHANCE-000000?style=flat-square&logo=behance&logoColor=68d8fb)
+![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=flat-square&logo=tiktok&logoColor=68d8fb)
+![Twitter](https://img.shields.io/badge/TWITTER-000000?style=flat-square&logo=twitter&logoColor=68d8fb)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=68d8fb)
+
+</div>
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ SYSTEM SPECS [TECH STACK]
+
+```bash
+# MOBILE DEVELOPMENT
+OS: Flutter v3.0+ | Language: Dart | SDK: Android/iOS
+
+# WEB DEVELOPMENT  
+Frontend: HTML5, CSS3, JavaScript
+Backend: PHP | Database: MySQL
+
+# DESIGN & TOOLS
+Design: Figma | Version: Git | IDE: VS Code
+```
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-D9F500?style=for-the-badge&logo=flutter&logoColor=000000)
-![Dart](https://img.shields.io/badge/Dart-F60596?style=for-the-badge&logo=dart&logoColor=000000)
-![Android](https://img.shields.io/badge/Android-6904F6?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-D9F500?style=for-the-badge&logo=ios&logoColor=000000)
+![FLUTTER](https://img.shields.io/badge/FLUTTER-000000?style=for-the-badge&logo=flutter&logoColor=68d8fb)
+![DART](https://img.shields.io/badge/DART-000000?style=for-the-badge&logo=dart&logoColor=68d8fb)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-F60596?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6904F6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-D9F500?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-F60596?style=for-the-badge&logo=php&logoColor=white)
+![ANDROID](https://img.shields.io/badge/ANDROID-000000?style=for-the-badge&logo=android&logoColor=68d8fb)
+![IOS](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=68d8fb)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-6904F6?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F60596?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-6904F6?style=for-the-badge&logo=mysql&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=68d8fb)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=68d8fb)
+
+</td>
+<td align="center" width="25%">
+
+![FIGMA](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=68d8fb)
+![GIT](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=68d8fb)
 
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2f1a-4d02-8b1a-8b7c8c4b7b14.gif)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+###  Thanks for visiting! 🩵
 
 </div>
