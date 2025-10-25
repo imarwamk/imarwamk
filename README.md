@@ -80,7 +80,7 @@ Design: Figma | Version: Git | IDE: VS Code
 ![GIT](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=68d8fb)
 
 </td>
-</tr>
+</tr> 
 </table>
 </div>
 
@@ -94,7 +94,9 @@ Design: Figma | Version: Git | IDE: VS Code
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xrMHB1OHN2NGY1Y2h1ZWdpZHQ1ajN6dnRoZjlzNjI1bmIxYjAxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif"  width="800">
+
 
 ###  Thanks for visiting! 🩵
 
