@@ -28,12 +28,24 @@
 
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
 
-![Behance](https://img.shields.io/badge/BEHANCE-000000?style=flat-square&logo=behance&logoColor=68d8fb)
-![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=flat-square&logo=tiktok&logoColor=68d8fb)
-![Twitter](https://img.shields.io/badge/TWITTER-000000?style=flat-square&logo=twitter&logoColor=68d8fb)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=68d8fb)
+<a href="https://www.behance.net/marwamkalharbi" target="_blank">
+  <img src="https://img.shields.io/badge/BEHANCE-000000?style=flat-square&logo=behance&logoColor=68d8fb" alt="Behance">
+</a>
+
+<a href="https://x.com/IMarwa_Mk" target="_blank">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=68d8fb" alt="X">
+</a>
+
+<a href="https://www.tiktok.com/@idevm" target="_blank">
+  <img src="https://img.shields.io/badge/TIKTOK-000000?style=flat-square&logo=tiktok&logoColor=68d8fb" alt="TikTok">
+</a>
+
+<a href="https://github.com/imarwamk" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=68d8fb" alt="GitHub">
+</a>
 
 </div>
+
 
 </div>
 
