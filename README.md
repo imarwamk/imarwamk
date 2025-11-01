@@ -52,7 +52,7 @@
 
 ---
 
-##  SYSTEM SPECS [TECH STACK]
+## 🛠️ SYSTEM SPECS [TECH STACK]
 
 ```bash
 # MOBILE DEVELOPMENT
