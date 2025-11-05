@@ -97,6 +97,13 @@ Design: Figma | Version: Git | IDE: VS Code
 </table>
 </div>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imarwamk&show_icons=true&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarwamk&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 
