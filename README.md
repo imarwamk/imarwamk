@@ -98,9 +98,7 @@ Design: Figma | Version: Git | IDE: VS Code
 </div>
 
 ---
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imarwamk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 <div align="center">
 
