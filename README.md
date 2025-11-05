@@ -98,13 +98,11 @@ Design: Figma | Version: Git | IDE: VS Code
 </div>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imarwamk&show_icons=true&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarwamk&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=imarwamk&theme=tokyonight&date_format=j%20M%5B%20Y%5D&background=000000&border=68D8FB&stroke=68D8FB&ring=68D8FB&fire=68D8FB&currStreakNum=68D8FB&sideNums=68D8FB&currStreakLabel=68D8FB&sideLabels=68D8FB&dates=68D8FB)](https://git.io/streak-stats)
+
+</div>
 
 
 <div align="center">
