@@ -12,7 +12,7 @@
 </p>
 
 <br/>
-
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=68d8fb&center=true&vCenter=true&width=600&lines=%24+echo+%22Crafting+Digital+Experiences%22;%24+echo+%22Building+Secure+Solutions%22;%24+echo+%22Designing+With+Purpose%22" alt="Typing SVG" />
 
 <br/>
