@@ -5,7 +5,7 @@
 ### `Flutter Developer` | `Web Developer` 
   
 <br/>
-
+ 
 <p align="center" style="font-family: 'Poppins', sans-serif; font-size: 18px; color: #68d8fb; font-weight: 500;">
 ⟢ Passionate about building applications with elegant design and strong functionality
 </p>
